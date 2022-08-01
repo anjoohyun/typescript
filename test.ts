@@ -7,3 +7,5 @@ function hello(b:number) {
 }
 
 hello(23)
+
+console.log('testset')
