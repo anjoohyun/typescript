@@ -1,0 +1,16 @@
+{
+  "name": "typescript-start",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "typescript": "^4.7.4"
+  }
+}
